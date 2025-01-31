@@ -1,4 +1,4 @@
-# PH-MRI
+# Persistent Homology and Brain Networks (MRI)
 
 ## Comparing multimodal brain networks to identify robust connectivity patterns using persistent homology in multiple sclerosis
 
@@ -6,7 +6,7 @@ Brain networks (or graphs) derived from magnetic resonance imaging have demonstr
 
 This work was published in:
 
-- T. Lozano-Bagén, E. Martinez-Heras, G. Pontillo, E. Solana, F. Vivó, M. Petracca, A. Calvi, S. Garrido-Romero, A. Solé-Ribalta, S. Llufriu, F. Prados, and J. Casas-Roma (2022). "_Comparing multimodal brain networks to identify robust connectivity patterns using persistent homology in multiple sclerosis_". **JOURNAL**  _Submitted_
+- T. Lozano-Bagén, E. Martinez-Heras, G. Pontillo, E. Solana, F. Vivó, M. Petracca, A. Calvi, S. Garrido-Romero, A. Solé-Ribalta, S. Llufriu, F. Prados, and J. Casas-Roma (2025). "_Comparing multimodal brain networks to identify robust connectivity patterns using persistent homology in multiple sclerosis_". **JOURNAL**  _Submitted_
 
 ## Instructions
 
